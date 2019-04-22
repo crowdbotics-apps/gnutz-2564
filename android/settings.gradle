@@ -1,0 +1,3 @@
+rootProject.name = 'gnutz_2564'
+
+include ':app'
